@@ -5,6 +5,6 @@ public class TestCase1 {
 
         //created a new test case and working on it
 
-
+        //writing smoke test
     }
 }
